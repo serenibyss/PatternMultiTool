@@ -1,0 +1,21 @@
+{
+	"modListVersion": 2,
+	"modList": [{
+		"modid": "${modId}",
+		"name": "${modName}",
+		"description": "Pattern editing QoL addon for AE2.",
+		"version": "${modVersion}",
+		"mcversion": "${minecraftVersion}",
+		"url": "https://github.com/serenibyss/PatternMultiTool",
+		"updateUrl": "",
+		"authorList": ["serenibyss"],
+		"credits": "Thanks to NAE2 by NotMyWing on 1.12.2 for the original idea and code",
+		"logoFile": "",
+		"screenshots": [],
+		"parent": "",
+		"requiredMods": [],
+		"dependencies": [],
+		"dependants": [],
+		"useDependencyInformation": true
+	}]
+}
